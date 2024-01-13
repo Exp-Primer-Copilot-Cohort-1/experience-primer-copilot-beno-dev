@@ -1,6 +1,5 @@
 {
-    // Name this configuration
-    "name": "Copilot for Students",
+    "name": "Copilot v1",
     "customizations": {
         "vscode": {
             "extensions": [
